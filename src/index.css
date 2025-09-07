@@ -1,0 +1,17 @@
+
+@import "tailwindcss";
+
+body {
+  background-image: url('/pencils.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* optional, makes it stay fixed on scroll */
+}
+
+.fonttt{
+  font-family: "Rubik Dirt", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  font-size: 50px;
+}
